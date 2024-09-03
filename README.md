@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am ZerX, I love AI and Software Development
+Hi! I am ZerX, I love AI and Software Development.
 
 
 ## 🌐 Socials:
