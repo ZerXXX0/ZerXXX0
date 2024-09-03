@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my Github profile, feel free to hit me up!
-
+Hi! I am Ghozy Abdurrahman aka ZerX, a Computer Science student with passion in AI and Software Development, a freelance designer, and a hobbyist photographer.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zillion_xpressions) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zerx_photo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ghozy-abdurrahman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27172795) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zerx_photo) 
