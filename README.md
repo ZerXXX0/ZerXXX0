@@ -86,14 +86,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/ghoyhernandez">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316f6ld2mxeppizadynrrf2mbd4u" alt="Spotify recently played"  />
