@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey, What's Up?</h1>
+
+###
+
+<p align="left">I am a driven Computer Science undergrad at Telkom University. I build AI-powered solutions—ranging from sales prediction and sentiment analysis to multimodal traffic safety systems. As a freelance designer and photography buff, I pair code with creativity. Always eager to explore new frontiers in tech and design.</p>
+
+###
+
+<h2 align="center">Tech Stack</h2>
 
 ###
 
@@ -79,9 +87,20 @@
 
 ###
 
+<h2 align="center">Stats</h2>
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZerXXX0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ZerXXX0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZerXXX0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZerXXX0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ZerXXX0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=ZerXXX0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZerXXX0&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/output/snake.svg" alt="Snake animation" />
 
 ###
