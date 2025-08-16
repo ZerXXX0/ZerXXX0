@@ -100,7 +100,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/output/snake.svg" alt="Snake animation" />
-
-###
