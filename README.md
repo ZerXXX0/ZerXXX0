@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a driven **Computer Science undergraduate** at **Telkom University** with a passion for building AI-powered solutions that make a real impact. From traffic safety systems to medical diagnostics, I love exploring how technology can solve real-world problems.
+I'm a driven **Computer Science undergraduate** at **Telkom University** with a passion for building AI-powered solutions that make a real impact combined with Software Development. From traffic safety systems to medical diagnostics, I love exploring how technology can solve real-world problems.
 
 - 🎓 **Computer Science Student** at Telkom University
 - 🤖 **AI/ML Enthusiast** specializing in computer vision and NLP
