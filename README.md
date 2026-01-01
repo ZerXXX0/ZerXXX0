@@ -58,53 +58,6 @@ I'm a driven **Computer Science undergraduate** at **Telkom University** with a 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-## Featured Projects
-
-### 🚗 [Traffic Accident & Vehicle Detection System](https://github.com/ZerXXX0/Traffic-Accident-and-Vehicle-Detection-Multimodal)
-**Multimodal AI system** combining computer vision and audio analysis for traffic safety
-- 🎯 Real-time accident detection and emergency vehicle classification
-- 🔧 Built with Python, OpenCV, and deployed on Streamlit
-- 🌟 Integrates multiple data modalities for enhanced accuracy
-
-### 👁️ [Diabetic Retinopathy Classifier](https://github.com/ZerXXX0/diabetic-retinopathy-severity-classification)
-**Lightweight medical AI** for diabetic retinopathy screening
-- 🏥 83% accuracy with only 4.9M parameters using MobileViTV2
-- 📱 Optimized for on-device deployment in low-resource settings
-- 💡 Addresses real healthcare accessibility challenges
-
-### 🤖 [Assistify - Digital Personal Assistant](https://github.com/ZerXXX0/Assistify-Digital-Personal-Assistant-Web-Application)
-**Web-based productivity platform** for daily task management
-- ⚡ Built with Java for robust backend functionality
-- 🎨 Clean, intuitive interface for enhanced user experience
-- 📊 Comprehensive productivity and organization tools
-
-### 📊 [Sales Prediction System](https://github.com/ZerXXX0/sales-prediction)
-**Machine learning solution** for formula milk sales forecasting
-- 📈 Multiple ML algorithms for accurate predictions
-- 🏆 Competition-winning solution for team "anomali"
-- 📊 Data-driven insights for business decision making
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZerXXX0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZerXXX0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerXXX0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## What I'm Working On
-
-- 🔬 **Research**: Exploring edge AI deployment for real-time applications
-- 🏥 **Healthcare AI**: Developing accessible diagnostic tools
-- 🌍 **Environmental Tech**: AI solutions for sustainability challenges
-- 📚 **Learning**: Advanced deep learning architectures and MLOps
-
 ## Let's Connect!
 
 <div align="center">
