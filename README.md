@@ -88,13 +88,16 @@ I'm a driven **Computer Science undergraduate** at **Telkom University** with a 
 
 </div>
 
----
 
 <div align="center">
   <i>"Technology is best when it brings people together and solves real problems."</i>
 </div>
 
+
+
 <br><br>
+
+---
 
 ## Widgets
 
