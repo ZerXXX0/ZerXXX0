@@ -95,7 +95,7 @@ I'm an **Informatics undergraduate at Telkom University** (GPA 3.55/4.00) specia
 ![Vector Database](https://img.shields.io/badge/Vector_DB-6A1B9A?style=for-the-badge)
 
 
-### 🌐 Backend & APIs
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
