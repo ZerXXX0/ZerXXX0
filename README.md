@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm an **Informatics undergraduate at Telkom University** (GPA 3.55/4.00) specializing in **Computer Vision, Multimodal AI, and Deep Learning**. I love building AI-powered solutions that solve real-world problems, from CCTV weapon detection to medical diagnostics.
+I'm an **Informatics undergraduate at Telkom University** (GPA 3.57/4.00) specializing in **Computer Vision, Multimodal AI, and Deep Learning**. I love building AI-powered solutions that solve real-world problems, from CCTV weapon detection to medical diagnostics.
 
 - **Researcher** at the AI Lab & Multimedia Lab, working on computer vision and multimodal systems
 - Published research in **IEEE proceedings** and actively working on papers for **ICoDSA 2026**
