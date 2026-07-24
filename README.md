@@ -19,7 +19,7 @@
 I am an Informatics student specializing in **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Backend Engineering**. With a strong academic background (GPA 3.57/4.00) and hands-on research experience at the **AI Lab & Multimedia Lab Telkom University**, I bridge the gap between academic theory and production-grade software solutions.
 
 - **Undergraduate Researcher** focusing on Computer Vision, Multimodal AI, and deep learning architectures.
-- **Published Author** in IEEE proceedings and actively working on papers for ICoDSA 2026 and EECSI 2026.
+- **Published Author** in IEEE proceedings and currently working on papers for ICoDSA 2026 and EECSI 2026.
 - **Competition Finalist** at Intellectra ML Competition 2025 & Digihack AI For Good 2025.
 - **Passion**: Building robust backend systems, deploying optimized machine learning models, and building end-to-end data pipelines.
 
@@ -28,7 +28,7 @@ I am an Informatics student specializing in **Artificial Intelligence**, **Machi
 ## Core Expertise
 
 - **AI & Machine Learning**: Model design, training, optimization, evaluation, and deployment.
-- **Computer Vision & Multimodal AI**: YOLO architectures (up to YOLOv12), RFDETR, and Vision-Language Models (VLMs).
+- **Computer Vision & Multimodal AI**: YOLO architectures, RFDETR, Vision-Language Models (VLMs), etc.
 - **Generative AI & LLMs**: RAG (Retrieval-Augmented Generation), LangChain, LangGraph, and autonomous AI agents.
 - **Backend Engineering**: RESTful & GraphQL APIs, scalable microservices, and database systems.
 - **Data Science & Engineering**: ETL pipelines, data analysis, feature engineering, and statistical modeling.
@@ -101,30 +101,6 @@ I am an Informatics student specializing in **Artificial Intelligence**, **Machi
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## Featured Projects
-
-### 1. CCTV Weapon Detection & False Positive Reduction
-- **Description**: Comparative analysis of state-of-the-art computer vision models (YOLOv12 vs. RFDETR) for weapon detection in security feeds, using Vision-Language Models (VLMs) to verify alerts and reduce false positives.
-- **Tech Stack**: `PyTorch`, `YOLOv12`, `RFDETR`, `OpenCV`, `Vision-Language Models (VLMs)`.
-- **Outcome**: Published paper in IEEE proceedings (Nov 2025) demonstrating significant false positive reduction in real-time CCTV monitoring.
-
-### 2. Eye Blink Morse Code Decoder
-- **Description**: An assistive communication system using hybrid computer vision models to track eye blinks and translate them to Morse code, decoded using IndoBERT.
-- **Tech Stack**: `PyTorch`, `IndoBERT`, `MediaPipe`, `Python`.
-- **Outcome**: Accepted for presentation at ICoDSA 2026.
-
-### 3. Mountain Trail Trash Detection
-- **Description**: An automated monitoring system to detect litter along mountain hiking trails using optimized YOLOv12 variants to support environmental preservation efforts.
-- **Tech Stack**: `PyTorch`, `YOLOv12`, `Ultralytics`, `OpenCV`.
-- **Outcome**: Evaluated multiple lightweight YOLO model variations for deployment on edge devices.
-
-### 4. Deep Learning Medical Diagnosis Support
-- **Description**: A computer-aided diagnosis system analyzing medical chest X-ray images to enhance early tuberculosis detection.
-- **Tech Stack**: `TensorFlow`, `Keras`, `Python`, `scikit-image`.
-- **Outcome**: Achieved high diagnostic accuracy, helping clinicians streamline screening workflows.
 
 ---
 
