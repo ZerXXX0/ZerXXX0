@@ -19,7 +19,7 @@
 I am an Informatics student specializing in **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Backend Engineering**. With a strong academic background (GPA 3.57/4.00) and hands-on research experience at the **AI Lab & Multimedia Lab Telkom University**, I bridge the gap between academic theory and production-grade software solutions.
 
 - **Undergraduate Researcher** focusing on Computer Vision, Multimodal AI, and deep learning architectures.
-- **Published Author** in IEEE proceedings and actively working on papers for ICoDSA 2026.
+- **Published Author** in IEEE proceedings and actively working on papers for ICoDSA 2026 and EECSI 2026.
 - **Competition Finalist** at Intellectra ML Competition 2025 & Digihack AI For Good 2025.
 - **Passion**: Building robust backend systems, deploying optimized machine learning models, and building end-to-end data pipelines.
 
