@@ -146,13 +146,6 @@ I am an Informatics student specializing in **Artificial Intelligence**, **Machi
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## WakaTime Coding Statistics
 
 <!--START_SECTION:waka-->
