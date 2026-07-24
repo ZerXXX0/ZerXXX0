@@ -117,16 +117,16 @@ I am an Informatics student specializing in **Artificial Intelligence**, **Machi
   <table width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZerXXX0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=ZerXXX0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
         <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerXXX0&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZerXXX0&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZerXXX0&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
         <br/><br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZerXXX0&theme=tokyonight" alt="Profile Details" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
         <br/><br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZerXXX0&theme=tokyonight&utcOffset=7" alt="Productive Time" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZerXXX0/ZerXXX0/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="100%" />
       </td>
     </tr>
   </table>
