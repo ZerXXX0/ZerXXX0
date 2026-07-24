@@ -87,30 +87,6 @@ I am an Informatics student specializing in **Artificial Intelligence**, **Machi
 
 ---
 
-## Featured Projects
-
-### 1. CCTV Weapon Detection & False Positive Reduction
-- **Description**: Comparative analysis of state-of-the-art computer vision models (YOLOv12 vs. RFDETR) for weapon detection in security feeds, using Vision-Language Models (VLMs) to verify alerts and reduce false positives.
-- **Tech Stack**: `PyTorch`, `YOLOv12`, `RFDETR`, `OpenCV`, `Vision-Language Models (VLMs)`.
-- **Outcome**: Published paper in IEEE proceedings (Nov 2025) demonstrating significant false positive reduction in real-time CCTV monitoring.
-
-### 2. Eye Blink Morse Code Decoder
-- **Description**: An assistive communication system using hybrid computer vision models to track eye blinks and translate them to Morse code, decoded using IndoBERT.
-- **Tech Stack**: `PyTorch`, `IndoBERT`, `MediaPipe`, `Python`.
-- **Outcome**: Accepted for presentation at ICoDSA 2026.
-
-### 3. Mountain Trail Trash Detection
-- **Description**: An automated monitoring system to detect litter along mountain hiking trails using optimized YOLOv12 variants to support environmental preservation efforts.
-- **Tech Stack**: `PyTorch`, `YOLOv12`, `Ultralytics`, `OpenCV`.
-- **Outcome**: Evaluated multiple lightweight YOLO model variations for deployment on edge devices.
-
-### 4. Deep Learning Medical Diagnosis Support
-- **Description**: A computer-aided diagnosis system analyzing medical chest X-ray images to enhance early tuberculosis detection.
-- **Tech Stack**: `TensorFlow`, `Keras`, `Python`, `scikit-image`.
-- **Outcome**: Achieved high diagnostic accuracy, helping clinicians streamline screening workflows.
-
----
-
 ## GitHub Analytics
 
 <div align="center">
